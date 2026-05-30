@@ -11,8 +11,8 @@ I've spent 25 years at the intersection of financial services and technology —
 | Project | What It Is | Status |
 |---|---|---|
 | [**finserv-agent-audit**](https://github.com/linus10x/finserv-agent-audit) | Governance patterns for autonomous AI agents in regulated financial services — DEFCON state machine, Sovereign Veto, Audit Chain, EU AI Act mapping | 🟢 Public · v1.0.0 |
-| **APEX** | 6-agent autonomous trading research system — 67.7% CAGR target, AWS ECS Fargate, 1,100+ commits | 🔒 Private · Phase 0 paper trading |
-| **ShadowForge** | 10-agent adversarial red team — 174.2% CAGR target, AWS EKS Fargate | 🔒 Private · Active build |
+| **APEX** | 6-agent autonomous trading research system — DEFCON risk-state machine, Sovereign Veto, hash-chained audit; AWS ECS Fargate | 🔒 Private · Phase 0 paper trading, no live capital |
+| **ShadowForge** | 10-agent adversarial red-team research system — AWS EKS Fargate | 🔒 Private · Active build |
 | **SPARTA** | APEX v2.0 — zero retrofit debt, specs locked | 🔒 Private · Pre-build |
 
 ---
@@ -39,7 +39,7 @@ Building                NTCI / APEX     Autonomous trading research · AI govern
 ### Currently
 
 - 📍 Dallas–Fort Worth, TX
-- 🎯 Seeking: CTO · CPO · Chief AI Officer · Field CTO — FSI / fintech / wealth management
+- 🎯 Seeking: CTO · CPO · Chief AI Officer · Field CTO — FSI / fintech / private capital
 - 🤝 Open to: Full-time + Fractional engagements
 - ✍️ Writing about: AI governance in regulated industries, autonomous systems, crisis leadership
 
