@@ -1,37 +1,43 @@
 ## Kunjar Bhaduri
 
-**FSI technology executive. 25 years. Crisis-tested. AI-native builder.**
+**FSI technology executive · 25 years · crisis-tested · AI-native builder.**
 
-I've spent 25 years at the intersection of financial services and technology — leading teams through ransomware recovery, building $750M+ platform deals, and now building autonomous AI systems that have to survive regulatory audits, risk committees, and 3am incidents.
-
----
-
-### What I Build
-
-| Project | What It Is | Status |
-|---|---|---|
-| [**finserv-agent-audit**](https://github.com/linus10x/finserv-agent-audit) | Governance patterns for autonomous AI agents in regulated financial services — DEFCON state machine, Sovereign Veto, Audit Chain, EU AI Act mapping | 🟢 Public · v1.0.0 |
-| **APEX** | 6-agent autonomous trading research system — DEFCON risk-state machine, Sovereign Veto, hash-chained audit; AWS ECS Fargate | 🔒 Private · Phase 0 paper trading, no live capital |
-| **ShadowForge** | 10-agent adversarial red-team research system — AWS EKS Fargate | 🔒 Private · Active build |
-| **SPARTA** | APEX v2.0 — zero retrofit debt, specs locked | 🔒 Private · Pre-build |
+I've spent 25 years where financial services meets technology — rescuing a $750M wealth-platform deal from a client about to walk, rebuilding a ransomwared business on the cloud in 50 days with no DR, scaling a P&L from $7M to $140M. Now I build the governance that lets autonomous AI operate inside institutions that answer to examiners, risk committees, and 3am incidents.
 
 ---
 
-### The Framework That Started It All
+### Autonomy Ladder™ — governance for autonomous AI in regulated operations
 
-After a 12-day hard-down ransomware attack with no DR available, I codified what we used to survive it — a decision framework for autonomous AI agents in regulated environments. Every pattern in `finserv-agent-audit` was written in response to a real failure mode.
+One framework — **A0→A4 deployment authority** — across six co-equal regulated verticals, each encoded as runnable, DOI-archived Python. A non-overridable sovereign veto, a hash-chain audit ledger, hard envelopes, and mechanical demotion: the controls that turn "the agent decides" into "the agent decides, and you can prove what it was allowed to."
 
-**Autonomy Ladder (A0→A4):** Every agent decision is classified by required human oversight level. Risk state drives autonomy level — at DEFCON ALERT or above, all agents drop to A1 regardless of their normal classification.
+**Framework + whitepaper → [autonomy-ladder.io](https://autonomy-ladder.io)** · **The six-library family → [autonomy-ladder-libraries](https://github.com/linus10x/autonomy-ladder-libraries)**
+
+| Library | Vertical | Primary rule | Tests |
+|---|---|---|---|
+| [**finserv-agent-audit**](https://github.com/linus10x/finserv-agent-audit) | Cross-vertical financial services | EU AI Act Art. 14 · SR-letters · FCRA | 630 |
+| [**banking-agent-audit**](https://github.com/linus10x/banking-agent-audit) | Banking | ECOA/Reg B adverse action · BSA/AML/OFAC | 182 |
+| [**payments-agent-audit**](https://github.com/linus10x/payments-agent-audit) | Payments | OFAC · Reg E · rail finality | 183 |
+| [**payer-agent-audit**](https://github.com/linus10x/payer-agent-audit) | Health-insurance payer | NAIC Model Bulletin (UM / prior auth) | 156 |
+| [**private-capital-agent-audit**](https://github.com/linus10x/private-capital-agent-audit) | SEC-registered advisers | Advisers Act §206 | 181 |
+| [**cre-agent-audit**](https://github.com/linus10x/cre-agent-audit) | Commercial real estate | Fair-housing · FCRA §607(b) | 336 |
+
+*All six: zero runtime dependencies · `mypy --strict` · SHA-pinned CI · golden corpora of real, primary-sourced enforcement actions · DOI-archived for citation.*
 
 ---
 
-### Career Arc
+### NTCI — a self-funded AI research lab
+
+I run NTCI as a private research lab: a **private quantitative options program** (pre-revenue, paper-stage — the discipline is the story, not a return) and additional research streams that stress-test the same governance primitives the public libraries encode. The interesting part isn't any one system — it's what hundreds of build sessions, a published mistakes catalog, and a long architecture-decision record teach you about running frontier models under real constraints. The public libraries are where that discipline becomes inspectable.
+
+---
+
+### Career arc
 
 ```
-$7M → $140M P&L        Cognizant       JPMorgan Partner of the Year 2007 / 2009 / 2010
-$12M → $40M turnaround Wipro Opus      12-day ransomware · COVID · Azure in 50 days · SOC 2 + ISO 27001
+$7M → $140M P&L         Cognizant       3× Partner of the Year (top-five US bank) · 2007 / 2009 / 2010
+$12M → $40M turnaround  Wipro Opus      12-day ransomware · COVID · Azure in 50 days · SOC 2 + ISO 27001
 $750M deal rescued      Broadridge      CCM/CXM wealth platform · departing client recovered
-Building                NTCI / APEX     Autonomous trading research · AI governance frameworks
+Building                NTCI            AI-governance reference libraries · autonomous-systems research
 ```
 
 ---
@@ -39,9 +45,9 @@ Building                NTCI / APEX     Autonomous trading research · AI govern
 ### Currently
 
 - 📍 Dallas–Fort Worth, TX
-- 🎯 Seeking: CTO · CPO · Chief AI Officer · Field CTO — FSI / fintech / private capital
-- 🤝 Open to: Full-time + Fractional engagements
-- ✍️ Writing about: AI governance in regulated industries, autonomous systems, crisis leadership
+- 🎯 CTO · CPO · Chief AI Officer · Field CTO — FSI / fintech / private capital
+- 🤝 Full-time + fractional + board / advisory
+- ✍️ Writing on AI governance in regulated industries, autonomous systems, and crisis leadership
 
 ---
 
