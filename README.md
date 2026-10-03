@@ -25,9 +25,9 @@ One framework — **A0→A4 deployment authority** — across six co-equal regul
 
 ---
 
-### NTCI — a self-funded AI research lab
+### NTCI, a self-funded AI research lab
 
-I run NTCI as a private research lab: a **private quantitative options program** (pre-revenue, paper-stage — the discipline is the story, not a return) and additional research streams that stress-test the same governance primitives the public libraries encode. The interesting part isn't any one system — it's what hundreds of build sessions, a published mistakes catalog, and a long architecture-decision record teach you about running frontier models under real constraints. The public libraries are where that discipline becomes inspectable.
+I run NTCI as a small, self-funded research lab. Its work tests the same governance ideas the public libraries encode: what an agent may do on its own, when a person has to sign off, and how you prove afterward what happened. Hundreds of build sessions, a running mistakes log and a long record of architecture decisions have taught me a lot about running frontier models under real constraints. The public libraries are the part anyone can inspect.
 
 ---
 
