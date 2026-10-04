@@ -14,7 +14,7 @@ One framework — **A0→A4 deployment authority** — across six co-equal regul
 
 | Library | Vertical | Primary rule | Tests |
 |---|---|---|---|
-| [**finserv-agent-audit**](https://github.com/linus10x/finserv-agent-audit) | Cross-vertical financial services | EU AI Act Art. 14 · SR-letters · FCRA | 630 |
+| [**finserv-agent-audit**](https://github.com/linus10x/finserv-agent-audit) | Cross-vertical financial services | EU AI Act Art. 14 · SR-letters · FCRA | 722 |
 | [**banking-agent-audit**](https://github.com/linus10x/banking-agent-audit) | Banking | ECOA/Reg B adverse action · BSA/AML/OFAC | 182 |
 | [**payments-agent-audit**](https://github.com/linus10x/payments-agent-audit) | Payments | OFAC · Reg E · rail finality | 183 |
 | [**payer-agent-audit**](https://github.com/linus10x/payer-agent-audit) | Health-insurance payer | NAIC Model Bulletin (UM / prior auth) | 156 |
