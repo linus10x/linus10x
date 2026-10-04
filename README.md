@@ -19,7 +19,7 @@ One framework — **A0→A4 deployment authority** — across six co-equal regul
 | [**payments-agent-audit**](https://github.com/linus10x/payments-agent-audit) | Payments | OFAC · Reg E · rail finality | 183 |
 | [**payer-agent-audit**](https://github.com/linus10x/payer-agent-audit) | Health-insurance payer | NAIC Model Bulletin (UM / prior auth) | 156 |
 | [**private-capital-agent-audit**](https://github.com/linus10x/private-capital-agent-audit) | SEC-registered advisers | Advisers Act §206 | 181 |
-| [**cre-agent-audit**](https://github.com/linus10x/cre-agent-audit) | Commercial real estate | Fair-housing · FCRA §607(b) | 336 |
+| [**cre-agent-audit**](https://github.com/linus10x/cre-agent-audit) | Commercial real estate | Fair-housing · FCRA §607(b) | 348 |
 
 *All six: zero runtime dependencies · `mypy --strict` · SHA-pinned CI · golden corpora of real, primary-sourced enforcement actions · DOI-archived for citation.*
 
