@@ -1,14 +1,14 @@
 ## Kunjar Bhaduri
 
-**FSI technology executive · 25 years · crisis-tested · AI-native builder.**
+**FSI technology executive · 25 years · AI-native builder.**
 
-I've spent 25 years where financial services meets technology — rescuing a $750M wealth-platform deal from a client about to walk, rebuilding a ransomwared business on the cloud in 50 days with no DR, scaling a P&L from $7M to $140M. Now I build the governance that lets autonomous AI operate inside institutions that answer to examiners, risk committees, and 3am incidents.
+I've spent 25 years where financial services meets technology: rescuing a troubled wealth-platform program and reframing it into a $750M scoped multi-year commitment, bringing a ransomwared business back with no DR (MVP in about 50 days, full Azure migration in 75), and growing a client portfolio from $7M to $140M. Now I build the governance that lets autonomous AI operate inside institutions that answer to examiners, risk committees, and 3am incidents.
 
 ---
 
-### Autonomy Ladder™ — governance for autonomous AI in regulated operations
+### Autonomy Ladder™: governance for autonomous AI in regulated operations
 
-One framework — **A0→A4 deployment authority** — across six co-equal regulated verticals, each encoded as runnable, DOI-archived Python. A non-overridable sovereign veto, a hash-chain audit ledger, hard envelopes, and mechanical demotion: the controls that turn "the agent decides" into "the agent decides, and you can prove what it was allowed to."
+One framework, **A0→A4 deployment authority**, across six co-equal regulated verticals, each encoded as runnable, DOI-archived Python. A non-overridable sovereign veto, a hash-chain audit ledger, hard envelopes, and mechanical demotion: the controls that turn "the agent decides" into "the agent decides, and you can prove what it was allowed to."
 
 **Framework + whitepaper → [autonomy-ladder.io](https://autonomy-ladder.io)** · **The six-library family → [autonomy-ladder-libraries](https://github.com/linus10x/autonomy-ladder-libraries)**
 
@@ -34,9 +34,9 @@ I run NTCI as a small, self-funded research lab. Its work tests the same governa
 ### Career arc
 
 ```
-$7M → $140M P&L         Cognizant       3× Partner of the Year (top-five US bank) · 2007 / 2009 / 2010
-$12M → $40M turnaround  Wipro Opus      12-day ransomware · COVID · Azure in 50 days · SOC 2 + ISO 27001
-$750M deal rescued      Broadridge      CCM/CXM wealth platform · departing client recovered
+$7M → $140M portfolio   Cognizant       3× Partner of the Year (top-five US bank)
+$12M → $40M turnaround  Wipro Opus      12-day ransomware · COVID · Azure in 75 days · track to SOC 2 + ISO 27001
+$750M commitment        Broadridge      wealth-platform delivery rescue
 Building                NTCI            AI-governance reference libraries · autonomous-systems research
 ```
 
@@ -45,8 +45,8 @@ Building                NTCI            AI-governance reference libraries · aut
 ### Currently
 
 - 📍 Dallas–Fort Worth, TX
-- 🎯 CTO · CPO · Chief AI Officer · Field CTO — FSI / fintech / private capital
-- 🤝 Full-time + fractional + board / advisory
+- 🎯 CTO · CPO · Chief AI Officer · Field CTO in FSI, fintech and private capital
+- 🤝 Full-time, fractional and advisory
 - ✍️ Writing on AI governance in regulated industries, autonomous systems, and crisis leadership
 
 ---
