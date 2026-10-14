@@ -51,6 +51,14 @@ Building                NTCI            AI-governance reference libraries · aut
 
 ---
 
+### Field notes
+
+### Field note: make every Airflow task safe to run twice
+
+Retries, cleared tasks and backfills all rerun work. A task that reads only its own data interval, writes to a location keyed by that interval, and replaces it instead of appending gives the same result on the second run as on the first. A quick check for any pipeline: in a dev or staging copy, clear one task, rerun it, and compare row counts before and after.
+
+---
+
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kunjarbhaduri-0077B5?logo=linkedin)](https://linkedin.com/in/kunjarbhaduri)
