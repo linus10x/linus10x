@@ -26,7 +26,7 @@ One framework, **A0→A4 deployment authority**, across six co-equal regulated v
 ---
 
 
-### Recent builds
+Recent builds
 
 In October 2026 I built and open-sourced posting-ledger. It keeps money in minor units and posts a balanced entry, then keeps that entry when it stores the offset. https://github.com/linus10x/posting-ledger
 
