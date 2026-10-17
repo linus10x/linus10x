@@ -25,6 +25,17 @@ One framework, **A0→A4 deployment authority**, across six co-equal regulated v
 
 ---
 
+
+### Recent builds
+
+In October 2026 I built and open-sourced posting-ledger. It keeps money in minor units and posts a balanced entry, then keeps that entry when it stores the offset. https://github.com/linus10x/posting-ledger
+
+I built and open-sourced agent-capabilities. It types a flow so a step that moves money needs an approval value before it runs. https://github.com/linus10x/agent-capabilities
+
+I built and open-sourced policy-proofs. It checks authorization at runtime and uses TypeScript proof types to restrict sensitive operations, and writes an HMAC-authenticated audit event for a transfer. https://github.com/linus10x/policy-proofs
+
+This is hands-on TypeScript from these builds. I am not claiming years of TypeScript or a client system built in it.
+
 ### NTCI, a self-funded AI research lab
 
 I run NTCI as a small, self-funded research lab. Its work tests the same governance ideas the public libraries encode: what an agent may do on its own, when a person has to sign off, and how you prove afterward what happened. Hundreds of build sessions, a running mistakes log and a long record of architecture decisions have taught me a lot about running frontier models under real constraints. The public libraries are the part anyone can inspect.
