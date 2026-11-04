@@ -1,8 +1,8 @@
 ## Kunjar Bhaduri
 
-**FSI technology executive · 25 years · AI-native builder.**
+**FSI technology executive · 29 years · AI-native builder.**
 
-I've spent 25 years where financial services meets technology: rescuing a troubled wealth-platform program and reframing it into a $750M scoped multi-year commitment, bringing a ransomwared business back with no DR (MVP in about 50 days, full Azure migration in 75), and growing a client portfolio from $7M to $140M. Now I build the governance that lets autonomous AI operate inside institutions that answer to examiners, risk committees, and 3am incidents.
+I've spent 29 years where financial services meets technology: rescuing a troubled wealth-platform program and reframing it into a $750M scoped multi-year commitment, bringing a ransomwared business back with no DR (MVP in about 50 days, full Azure migration in 75), and growing a client portfolio from $7M to $140M. Now I build the governance that lets autonomous AI operate inside institutions that answer to examiners, risk committees, and 3am incidents.
 
 ---
 
